@@ -1,4 +1,2 @@
-Hello Github, ini adalah repository pertama saya
-
-ini fitur 1
-ini fitur 2
+1. Tidak melibatkan operator relasional karena dalam IF yang diperiksa adalah nilai boolean (true/false), sedangkan operator relasional digunakan ketika ada perbandingan data berupa nilai angka/kata/karakter
+2. Ketika mengisikan nilai false, tidak ada ouput yang keluar, langsung mengakhiri program
